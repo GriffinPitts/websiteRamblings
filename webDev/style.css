@@ -109,18 +109,7 @@ p {
 .darkCharcoal {
     background: rgb(50, 50, 50);
 }
-.navy {
-    background: navy;
-}
-.crimson {
-    background: crimson;
-}
-.royalBlue {
-    background: royalblue;
-}
-.royalPurple {
-    background: #4b006e;
-}
+
 
 /* button formatting */
 button[id = "redButton"] {
