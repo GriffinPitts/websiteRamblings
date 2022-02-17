@@ -122,7 +122,7 @@ public final class IndexGenerator {
 
     private static void printH1(FileWriter fr) {
         try {
-            fr.write("\t<h1 id=\"head\">Welcome Memers</h1>");
+            fr.write("\t<h1 id=\"head\">Welcome to the Construction Zone</h1>");
             fr.write("\n");
         } catch(Exception e) {
             System.err.println(PRINT_ERR_MSG + "printH1");
