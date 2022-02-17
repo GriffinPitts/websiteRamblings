@@ -17,6 +17,7 @@ This project is relatively new, and not complete. There are several errors, and 
 6. More JavaScript - Find an excuse to add more JS and expand my abilities in the language.
 7. SQL? - Find and excuse to create a database because... It sounds fun.
 8. Clean up style.css - Plenty of unused/obsolete classes and such that can be removed for readability and make room for future changes.
+9. Learning Maven for the first time, tons of weird problems. Figure out what all this nonsense means or switch to something lighter...
 
 
 Welcome to my journey! Feel free to reach out with suggestions, advice, comments, questions, opinions, confessions, harsh criticism, jokes, random thoughts...
